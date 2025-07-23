@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/c8c339696c92420a9b19530b0ff8a53a/artifacts
+end_time: 1744372881174
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c8c339696c92420a9b19530b0ff8a53a
+run_name: sneaky-pig-510
+run_uuid: c8c339696c92420a9b19530b0ff8a53a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744372531580
+status: 4
+tags: []
+user_id: giannispapias

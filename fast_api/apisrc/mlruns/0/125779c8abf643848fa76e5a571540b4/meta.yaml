@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/125779c8abf643848fa76e5a571540b4/artifacts
+end_time: 1724785127673
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 125779c8abf643848fa76e5a571540b4
+run_name: rare-shrike-168
+run_uuid: 125779c8abf643848fa76e5a571540b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724784952134
+status: 3
+tags: []
+user_id: user

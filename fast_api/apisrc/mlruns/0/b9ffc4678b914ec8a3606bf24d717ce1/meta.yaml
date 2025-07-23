@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/b9ffc4678b914ec8a3606bf24d717ce1/artifacts
+end_time: 1739458402372
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9ffc4678b914ec8a3606bf24d717ce1
+run_name: nervous-lark-444
+run_uuid: b9ffc4678b914ec8a3606bf24d717ce1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739458086021
+status: 3
+tags: []
+user_id: giannispapias

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/3f79f6688a6745e38b9723d74ab17af5/artifacts
+end_time: 1744374602051
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f79f6688a6745e38b9723d74ab17af5
+run_name: unleashed-croc-489
+run_uuid: 3f79f6688a6745e38b9723d74ab17af5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744374246174
+status: 3
+tags: []
+user_id: giannispapias

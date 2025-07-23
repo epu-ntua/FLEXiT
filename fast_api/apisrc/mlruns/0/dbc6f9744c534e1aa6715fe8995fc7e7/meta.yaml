@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/dbc6f9744c534e1aa6715fe8995fc7e7/artifacts
+end_time: 1721853566972
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dbc6f9744c534e1aa6715fe8995fc7e7
+run_name: carefree-koi-614
+run_uuid: dbc6f9744c534e1aa6715fe8995fc7e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721853401222
+status: 4
+tags: []
+user_id: user

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/25065f2d43464ac380a9c4674be33867/artifacts
+end_time: 1724786383460
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25065f2d43464ac380a9c4674be33867
+run_name: flawless-seal-571
+run_uuid: 25065f2d43464ac380a9c4674be33867
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724785947221
+status: 3
+tags: []
+user_id: user

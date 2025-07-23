@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/36aa543de5874075a3759214d10d26f0/artifacts
+end_time: 1724654804711
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36aa543de5874075a3759214d10d26f0
+run_name: classy-lynx-502
+run_uuid: 36aa543de5874075a3759214d10d26f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724654354223
+status: 3
+tags: []
+user_id: user

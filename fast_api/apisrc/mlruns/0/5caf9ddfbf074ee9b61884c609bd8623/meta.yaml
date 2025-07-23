@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/5caf9ddfbf074ee9b61884c609bd8623/artifacts
+end_time: 1739446437132
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5caf9ddfbf074ee9b61884c609bd8623
+run_name: grandiose-donkey-914
+run_uuid: 5caf9ddfbf074ee9b61884c609bd8623
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739441679474
+status: 4
+tags: []
+user_id: giannispapias

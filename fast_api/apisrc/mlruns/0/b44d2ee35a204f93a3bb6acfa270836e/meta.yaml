@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/b44d2ee35a204f93a3bb6acfa270836e/artifacts
+end_time: 1749545644228
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b44d2ee35a204f93a3bb6acfa270836e
+run_name: capricious-mole-709
+run_uuid: b44d2ee35a204f93a3bb6acfa270836e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749545297789
+status: 3
+tags: []
+user_id: giannispapias

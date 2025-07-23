@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/83d0281efe69447895b1d21d77f89db4/artifacts
+end_time: 1744372084308
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 83d0281efe69447895b1d21d77f89db4
+run_name: peaceful-yak-946
+run_uuid: 83d0281efe69447895b1d21d77f89db4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744371739601
+status: 3
+tags: []
+user_id: giannispapias

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/f64b787dd5dd4eab82d2bca7be4b6598/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f64b787dd5dd4eab82d2bca7be4b6598
+run_name: amazing-sponge-536
+run_uuid: f64b787dd5dd4eab82d2bca7be4b6598
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739439134486
+status: 1
+tags: []
+user_id: giannispapias

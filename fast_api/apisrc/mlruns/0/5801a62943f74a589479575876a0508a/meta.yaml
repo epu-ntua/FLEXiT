@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/5801a62943f74a589479575876a0508a/artifacts
+end_time: 1720038029850
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5801a62943f74a589479575876a0508a
+run_name: gaudy-zebra-678
+run_uuid: 5801a62943f74a589479575876a0508a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720037777169
+status: 3
+tags: []
+user_id: user

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/927ccceab3af4506a91934ee246e3532/artifacts
+end_time: 1727261406543
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 927ccceab3af4506a91934ee246e3532
+run_name: bedecked-shrew-174
+run_uuid: 927ccceab3af4506a91934ee246e3532
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727261224063
+status: 3
+tags: []
+user_id: user

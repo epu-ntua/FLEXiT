@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/e1bacebb845d434f94ccb546c0b081ca/artifacts
+end_time: 1721854381193
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1bacebb845d434f94ccb546c0b081ca
+run_name: sincere-ray-941
+run_uuid: e1bacebb845d434f94ccb546c0b081ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721854180170
+status: 3
+tags: []
+user_id: user

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/bd68d3fc7f5e4217b0666a282f322298/artifacts
+end_time: 1739457471821
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd68d3fc7f5e4217b0666a282f322298
+run_name: flawless-shark-960
+run_uuid: bd68d3fc7f5e4217b0666a282f322298
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739449488778
+status: 3
+tags: []
+user_id: giannispapias

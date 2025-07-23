@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/8e6fcd4500054f85989cb3efef3888f2/artifacts
+end_time: 1749554703339
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e6fcd4500054f85989cb3efef3888f2
+run_name: silent-crab-580
+run_uuid: 8e6fcd4500054f85989cb3efef3888f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749554677318
+status: 3
+tags: []
+user_id: giannispapias

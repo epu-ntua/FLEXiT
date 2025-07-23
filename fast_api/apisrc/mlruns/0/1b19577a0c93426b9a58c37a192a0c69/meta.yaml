@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/1b19577a0c93426b9a58c37a192a0c69/artifacts
+end_time: 1744373526335
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b19577a0c93426b9a58c37a192a0c69
+run_name: painted-quail-522
+run_uuid: 1b19577a0c93426b9a58c37a192a0c69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744373170386
+status: 3
+tags: []
+user_id: giannispapias

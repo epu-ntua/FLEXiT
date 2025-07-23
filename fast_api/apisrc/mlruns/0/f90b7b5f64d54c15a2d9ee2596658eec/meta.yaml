@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/f90b7b5f64d54c15a2d9ee2596658eec/artifacts
+end_time: 1724783933858
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f90b7b5f64d54c15a2d9ee2596658eec
+run_name: painted-sponge-640
+run_uuid: f90b7b5f64d54c15a2d9ee2596658eec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724783633173
+status: 4
+tags: []
+user_id: user

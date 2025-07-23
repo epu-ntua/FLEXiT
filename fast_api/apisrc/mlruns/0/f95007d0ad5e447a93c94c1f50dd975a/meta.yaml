@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/f95007d0ad5e447a93c94c1f50dd975a/artifacts
+end_time: 1750409058633
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f95007d0ad5e447a93c94c1f50dd975a
+run_name: skittish-hog-647
+run_uuid: f95007d0ad5e447a93c94c1f50dd975a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750409011049
+status: 3
+tags: []
+user_id: giannispapias

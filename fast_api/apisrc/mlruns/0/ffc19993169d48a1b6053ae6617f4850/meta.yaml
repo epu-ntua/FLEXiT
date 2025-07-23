@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/ffc19993169d48a1b6053ae6617f4850/artifacts
+end_time: 1720640423703
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ffc19993169d48a1b6053ae6617f4850
+run_name: agreeable-ant-371
+run_uuid: ffc19993169d48a1b6053ae6617f4850
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720640093749
+status: 3
+tags: []
+user_id: user

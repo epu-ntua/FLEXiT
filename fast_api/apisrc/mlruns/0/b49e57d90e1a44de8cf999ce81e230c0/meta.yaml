@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/b49e57d90e1a44de8cf999ce81e230c0/artifacts
+end_time: 1720639725479
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b49e57d90e1a44de8cf999ce81e230c0
+run_name: silent-bug-219
+run_uuid: b49e57d90e1a44de8cf999ce81e230c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720639340761
+status: 3
+tags: []
+user_id: user

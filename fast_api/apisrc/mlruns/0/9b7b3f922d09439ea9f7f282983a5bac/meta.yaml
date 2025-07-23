@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/9b7b3f922d09439ea9f7f282983a5bac/artifacts
+end_time: 1720040479471
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b7b3f922d09439ea9f7f282983a5bac
+run_name: glamorous-chimp-49
+run_uuid: 9b7b3f922d09439ea9f7f282983a5bac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720040138130
+status: 3
+tags: []
+user_id: user

@@ -1,0 +1,10 @@
+digest: 562972ad
+name: dataset
+profile: '{"features_shape": [97794, 60, 16], "features_size": 93882240, "features_nbytes":
+  375528960, "targets_shape": [97794], "targets_size": 97794, "targets_nbytes": 391176}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float32\", \"shape\": [-1, 60, 16]}}]", "targets": "[{\"type\": \"tensor\",
+  \"tensor-spec\": {\"dtype\": \"float32\", \"shape\": [-1]}}]"}}'
+source: '{"tags": {"mlflow.user": "giannispapias", "mlflow.source.name": "/opt/homebrew/lib/python3.11/site-packages/uvicorn/__main__.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/c5909584994346d8842474f1d7bdb9a2/artifacts
+end_time: 1721886959816
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5909584994346d8842474f1d7bdb9a2
+run_name: unique-finch-703
+run_uuid: c5909584994346d8842474f1d7bdb9a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721886691384
+status: 3
+tags: []
+user_id: user

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/654509a012484ba893a57574a1e87da9/artifacts
+end_time: 1719435259772
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 654509a012484ba893a57574a1e87da9
+run_name: overjoyed-tern-45
+run_uuid: 654509a012484ba893a57574a1e87da9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719434903316
+status: 3
+tags: []
+user_id: user

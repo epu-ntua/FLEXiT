@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/86fbc323174f4869b8a7383b0ab09076/artifacts
+end_time: 1724623913636
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86fbc323174f4869b8a7383b0ab09076
+run_name: angry-shrew-82
+run_uuid: 86fbc323174f4869b8a7383b0ab09076
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724623482055
+status: 3
+tags: []
+user_id: user

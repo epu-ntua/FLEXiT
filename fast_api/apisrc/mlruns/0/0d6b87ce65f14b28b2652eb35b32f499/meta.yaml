@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/0d6b87ce65f14b28b2652eb35b32f499/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d6b87ce65f14b28b2652eb35b32f499
+run_name: casual-owl-329
+run_uuid: 0d6b87ce65f14b28b2652eb35b32f499
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739440761668
+status: 1
+tags: []
+user_id: giannispapias

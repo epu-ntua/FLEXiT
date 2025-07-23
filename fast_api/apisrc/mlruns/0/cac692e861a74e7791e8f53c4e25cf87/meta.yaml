@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/cac692e861a74e7791e8f53c4e25cf87/artifacts
+end_time: 1720035532978
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cac692e861a74e7791e8f53c4e25cf87
+run_name: casual-squirrel-578
+run_uuid: cac692e861a74e7791e8f53c4e25cf87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720035003761
+status: 3
+tags: []
+user_id: user

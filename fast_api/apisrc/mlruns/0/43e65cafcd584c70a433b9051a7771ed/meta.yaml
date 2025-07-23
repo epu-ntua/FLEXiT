@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/43e65cafcd584c70a433b9051a7771ed/artifacts
+end_time: 1750924212889
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 43e65cafcd584c70a433b9051a7771ed
+run_name: painted-mouse-929
+run_uuid: 43e65cafcd584c70a433b9051a7771ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750924171430
+status: 3
+tags: []
+user_id: giannispapias

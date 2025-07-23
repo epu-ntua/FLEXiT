@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/8b31cb31c2714c60b4248680bceb5e72/artifacts
+end_time: 1741334530995
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b31cb31c2714c60b4248680bceb5e72
+run_name: sassy-lamb-489
+run_uuid: 8b31cb31c2714c60b4248680bceb5e72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741334221973
+status: 3
+tags: []
+user_id: giannispapias

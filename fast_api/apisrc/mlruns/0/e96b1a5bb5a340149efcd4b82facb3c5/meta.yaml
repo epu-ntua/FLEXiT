@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/e96b1a5bb5a340149efcd4b82facb3c5/artifacts
+end_time: 1744368337669
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e96b1a5bb5a340149efcd4b82facb3c5
+run_name: adaptable-elk-278
+run_uuid: e96b1a5bb5a340149efcd4b82facb3c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744368003508
+status: 3
+tags: []
+user_id: giannispapias

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/228a2de72afd445ebfdfd48b45210fc5/artifacts
+end_time: 1740573218884
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 228a2de72afd445ebfdfd48b45210fc5
+run_name: capable-ray-556
+run_uuid: 228a2de72afd445ebfdfd48b45210fc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740572945506
+status: 3
+tags: []
+user_id: giannispapias

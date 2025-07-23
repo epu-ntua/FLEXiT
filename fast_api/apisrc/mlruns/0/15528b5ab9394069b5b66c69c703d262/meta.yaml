@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/15528b5ab9394069b5b66c69c703d262/artifacts
+end_time: 1721885984911
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15528b5ab9394069b5b66c69c703d262
+run_name: blushing-wren-341
+run_uuid: 15528b5ab9394069b5b66c69c703d262
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721885673955
+status: 3
+tags: []
+user_id: user

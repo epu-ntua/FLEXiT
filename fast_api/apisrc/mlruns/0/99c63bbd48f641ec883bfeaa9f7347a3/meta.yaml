@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/99c63bbd48f641ec883bfeaa9f7347a3/artifacts
+end_time: 1721853053167
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99c63bbd48f641ec883bfeaa9f7347a3
+run_name: bedecked-cat-911
+run_uuid: 99c63bbd48f641ec883bfeaa9f7347a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721852772637
+status: 4
+tags: []
+user_id: user

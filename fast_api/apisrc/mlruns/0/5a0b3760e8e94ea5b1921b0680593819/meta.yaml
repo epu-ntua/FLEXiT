@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/5a0b3760e8e94ea5b1921b0680593819/artifacts
+end_time: 1741334853471
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a0b3760e8e94ea5b1921b0680593819
+run_name: bald-lark-661
+run_uuid: 5a0b3760e8e94ea5b1921b0680593819
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741334549881
+status: 3
+tags: []
+user_id: giannispapias

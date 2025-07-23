@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/cbaffad131fc493d8827c84251fea516/artifacts
+end_time: 1727263018033
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cbaffad131fc493d8827c84251fea516
+run_name: rare-hound-791
+run_uuid: cbaffad131fc493d8827c84251fea516
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727262752599
+status: 3
+tags: []
+user_id: user

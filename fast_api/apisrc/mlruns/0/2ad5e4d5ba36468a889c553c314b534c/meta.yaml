@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/2ad5e4d5ba36468a889c553c314b534c/artifacts
+end_time: 1749551976966
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ad5e4d5ba36468a889c553c314b534c
+run_name: fortunate-bee-189
+run_uuid: 2ad5e4d5ba36468a889c553c314b534c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749551938208
+status: 3
+tags: []
+user_id: giannispapias

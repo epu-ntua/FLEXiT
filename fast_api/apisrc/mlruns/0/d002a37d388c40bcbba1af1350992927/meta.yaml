@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/d002a37d388c40bcbba1af1350992927/artifacts
+end_time: 1726478766089
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d002a37d388c40bcbba1af1350992927
+run_name: languid-stag-506
+run_uuid: d002a37d388c40bcbba1af1350992927
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726478366128
+status: 3
+tags: []
+user_id: user

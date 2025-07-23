@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/fe90778abead4dd8b4621a6b317ccb58/artifacts
+end_time: 1749557150535
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe90778abead4dd8b4621a6b317ccb58
+run_name: incongruous-cub-772
+run_uuid: fe90778abead4dd8b4621a6b317ccb58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749556800163
+status: 3
+tags: []
+user_id: giannispapias

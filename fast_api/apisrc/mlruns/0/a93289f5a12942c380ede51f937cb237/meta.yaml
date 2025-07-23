@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/a93289f5a12942c380ede51f937cb237/artifacts
+end_time: 1719434728451
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a93289f5a12942c380ede51f937cb237
+run_name: melodic-fox-954
+run_uuid: a93289f5a12942c380ede51f937cb237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719434493155
+status: 4
+tags: []
+user_id: user

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/f9b6f29de327493e98e113e82c812c52/artifacts
+end_time: 1740572928182
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9b6f29de327493e98e113e82c812c52
+run_name: resilient-perch-7
+run_uuid: f9b6f29de327493e98e113e82c812c52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740572623405
+status: 3
+tags: []
+user_id: giannispapias

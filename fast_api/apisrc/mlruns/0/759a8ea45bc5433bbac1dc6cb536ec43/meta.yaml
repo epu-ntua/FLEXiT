@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/759a8ea45bc5433bbac1dc6cb536ec43/artifacts
+end_time: 1724273780431
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 759a8ea45bc5433bbac1dc6cb536ec43
+run_name: suave-dog-370
+run_uuid: 759a8ea45bc5433bbac1dc6cb536ec43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724273465011
+status: 3
+tags: []
+user_id: user

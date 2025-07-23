@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/68e4e9bd77ee469cb0e9a89d4cc06e59/artifacts
+end_time: 1719434225030
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 68e4e9bd77ee469cb0e9a89d4cc06e59
+run_name: stately-steed-684
+run_uuid: 68e4e9bd77ee469cb0e9a89d4cc06e59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719433926543
+status: 4
+tags: []
+user_id: user

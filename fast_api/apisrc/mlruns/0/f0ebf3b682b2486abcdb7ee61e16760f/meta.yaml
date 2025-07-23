@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/f0ebf3b682b2486abcdb7ee61e16760f/artifacts
+end_time: 1724700414581
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0ebf3b682b2486abcdb7ee61e16760f
+run_name: bemused-goose-395
+run_uuid: f0ebf3b682b2486abcdb7ee61e16760f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724700031314
+status: 3
+tags: []
+user_id: user

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/4a11a7a209464c599a2a008db85201fd/artifacts
+end_time: 1727262537980
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a11a7a209464c599a2a008db85201fd
+run_name: selective-fly-877
+run_uuid: 4a11a7a209464c599a2a008db85201fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727262301346
+status: 3
+tags: []
+user_id: user

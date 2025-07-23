@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/314523f33d004807a6e743134e3d6ecb/artifacts
+end_time: 1720033847710
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 314523f33d004807a6e743134e3d6ecb
+run_name: abundant-gnat-0
+run_uuid: 314523f33d004807a6e743134e3d6ecb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720033554251
+status: 3
+tags: []
+user_id: user

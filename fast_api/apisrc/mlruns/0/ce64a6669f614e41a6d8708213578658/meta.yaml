@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/user/Desktop/backend-tool/fast_api/apisrc/mlruns/0/ce64a6669f614e41a6d8708213578658/artifacts
+end_time: 1724784466256
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce64a6669f614e41a6d8708213578658
+run_name: skillful-goat-395
+run_uuid: ce64a6669f614e41a6d8708213578658
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724784231598
+status: 3
+tags: []
+user_id: user
